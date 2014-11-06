@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="A" duration-ms="13841" started-at="2014-11-06T08:41:19Z" finished-at="2014-11-06T08:41:33Z">
+    <groups>
+    </groups>
+    <test name="B" duration-ms="13841" started-at="2014-11-06T08:41:19Z" finished-at="2014-11-06T08:41:33Z">
+      <class name="com.company.testclasses.GoogleTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.company.testclasses.GoogleTest@76737f58]" name="launchBrowser" is-config="true" duration-ms="5989" started-at="2014-11-06T14:11:19Z" finished-at="2014-11-06T14:11:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyLink()[pri:0, instance:com.company.testclasses.GoogleTest@76737f58]" name="verifyLink" duration-ms="7622" started-at="2014-11-06T14:11:25Z" finished-at="2014-11-06T14:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLink -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.company.testclasses.GoogleTest@76737f58]" name="afterMethod" is-config="true" duration-ms="220" started-at="2014-11-06T14:11:33Z" finished-at="2014-11-06T14:11:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.company.testclasses.GoogleTest -->
+    </test> <!-- B -->
+  </suite> <!-- A -->
+</testng-results>
